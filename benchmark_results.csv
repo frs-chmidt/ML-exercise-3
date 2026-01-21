@@ -1,0 +1,4 @@
+grid,rows,cols,obstacles,train_seconds,q_size,greedy_path_len,reached_target
+easy,4,4,2,1.6370602999813855,226,4,1
+medium,5,5,8,2.248868599999696,156,5,1
+hard,6,6,13,283.2891907002777,202,801,0
